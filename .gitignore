@@ -1,0 +1,4 @@
+TallerUsaPed/
+.TallerUsaPed/
+__pycache__/
+*.pyc
